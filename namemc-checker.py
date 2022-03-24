@@ -1,4 +1,4 @@
-# By Conor Eager, 2021. Licensed under the Mozilla Public License 2.0. See LICENSE file for details.
+# By Conor Eager, 2021. Licensed under the LGPL. See LICENSE file for details.
 import requests
 import time
 print("NameMC Checker v1.0.2")
